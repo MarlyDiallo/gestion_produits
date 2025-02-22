@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "code": "P001",
+      "designation": "Produit Alpha",
+      "pix": "9.99",
+      "date_expiration": "2025-12-31",
+      "description": "Produit Alpha de qualité supérieure."
+    },
+    {
+      "id": 2,
+      "code": "P002",
+      "designation": "Produit Beta",
+      "pix": "19.99",
+      "date_expiration": "2026-06-30",
+      "description": "Produit Beta, idéal pour l'usage quotidien."
+    },
+    {
+      "id": 3,
+      "code": "P003",
+      "designation": "Produit Gamma",
+      "pix": "29.99",
+      "date_expiration": null,
+      "description": "Produit Gamma sans date d'expiration définie."
+    }
+  ]
+}
